@@ -1,0 +1,16 @@
+# .gitignore
+__pycache__/
+*.py[cod]
+*.sqlite3
+.env
+.venv/
+venv/
+.env.local
+node_modules/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+.coverage
+htmlcov/
